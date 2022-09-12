@@ -1,5 +1,5 @@
 public class Player1 {
-    private String name;
+    private String name; //private string veriable declear called as "name"
     private String weapon;
     private int health;
 
